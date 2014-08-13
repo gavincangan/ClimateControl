@@ -1,0 +1,318 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"2.8" 
+[PROJECT_DETAILS]
+"Climate_Control" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.hwp" "M16C" "Renesas M16C Standard" "C source startup Application" "R8C/Tiny" "R8C/23" 
+[INFORMATION]
+"No project information available" 
+[TOOL_CHAIN]
+"Renesas M16C Standard Toolchain" "5.42.00" 
+[CONFIGURATIONS]
+"Debug" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug" 
+"Debug_M16C_R8C_Simulator" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug_M16C_R8C_Simulator" 
+"Debug_R8C_E8_SYSTEM" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug_R8C_E8_SYSTEM" 
+"Release" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Release" 
+[BUILD_PHASES]
+"Renesas M16C Assembler" 1 
+"Renesas M16C C Compiler" 1 
+"Renesas M16C Configurator" 1 
+"Renesas M16C Librarian" 1 
+"Renesas M16C Linker" 1 
+"Renesas M16C Stype Converter" 1 
+[TOOL_ENVIRONMENT]
+[EXTENSIONS]
+"Absolute file" "X30" 
+"Absolute list file" "ALS" 
+"Assembler error tag file" "ATG" 
+"Assembly include file" "INC" 
+"Assembly list file" "LST" 
+"Assembly source file" "A30" 
+"Branch Information file" "JIN" 
+"C header file" "H" 
+"C source file" "C" 
+"Configuration file" "CFG" 
+"Cross reference file" "XRF" 
+"Hex file" "HEX" 
+"ID file" "ID" 
+"Library file" "LIB" 
+"Library list file" "LLS" 
+"Linkage error tag file" "LTG" 
+"Linkage map file" "MAP" 
+"Preprocessed C source file" "I" 
+"Relocatable file" "R30" 
+"S-Record file" "MOT" 
+"Sni file" "SNI" 
+"Systemcall file" "MRC" 
+[FILE_GROUPS]
+"Absolute file" "BIN" "NONE" "" 
+"Absolute list file" "TEXT" "EDITOR" "" 
+"Assembler error tag file" "TEXT" "EDITOR" "" 
+"Assembly include file" "TEXT" "EDITOR" "" 
+"Assembly list file" "TEXT" "EDITOR" "" 
+"Assembly source file" "TEXT" "EDITOR" "" 
+"Branch Information file" "TEXT" "EDITOR" "" 
+"C header file" "TEXT" "EDITOR" "" 
+"C source file" "TEXT" "EDITOR" "" 
+"Configuration file" "TEXT" "EDITOR" "" 
+"Cross reference file" "TEXT" "EDITOR" "" 
+"Hex file" "TEXT" "EDITOR" "" 
+"ID file" "TEXT" "EDITOR" "" 
+"Library file" "BIN" "NONE" "" 
+"Library list file" "TEXT" "EDITOR" "" 
+"Linkage error tag file" "TEXT" "EDITOR" "" 
+"Linkage map file" "TEXT" "EDITOR" "" 
+"Preprocessed C source file" "TEXT" "EDITOR" "" 
+"Relocatable file" "BIN" "NONE" "" 
+"S-Record file" "TEXT" "EDITOR" "" 
+"Sni file" "TEXT" "EDITOR" "" 
+"Systemcall file" "TEXT" "EDITOR" "" 
+[ASSOCIATED_APPLICATIONS]
+[TOOLCHAIN_PHASE]
+"Renesas M16C Assembler" 
+"Renesas M16C C Compiler" 
+"Renesas M16C Configurator" 
+"Renesas M16C Librarian" 
+"Renesas M16C Linker" 
+"Renesas M16C Stype Converter" 
+[UTILITY_PHASE]
+[CUSTOM_PHASES]
+[CUSTOM_PHASE_INPUT_GROUP]
+[CUSTOM_PHASE_OUTPUT_SYNTAX]
+[BUILD_ORDER]
+"Renesas M16C C Compiler" 1 
+"Renesas M16C Assembler" 1 
+"Renesas M16C Linker" 1 
+"Renesas M16C Stype Converter" 1 
+"Renesas M16C Librarian" 0 
+"Renesas M16C Configurator" 0 
+[BUILD_PHASE_DETAILS]
+"Renesas M16C Assembler" "Assembly source file" 1 
+"Renesas M16C C Compiler" "C source file" 1 
+"Renesas M16C Configurator" "Configuration file" 0 
+"Renesas M16C Librarian" "Relocatable file" 0 
+"Renesas M16C Linker" "Relocatable file" 0 
+"Renesas M16C Stype Converter" "Absolute file" 0 
+[BUILD_FILE_ORDER_Assembly source file]
+"Renesas M16C Assembler" 1 
+[BUILD_FILE_ORDER_C source file]
+"Renesas M16C C Compiler" 1 
+[SCRAP]
+"Project Generator Setup File" "" 
+[MAPPINGS]
+"Absolute file" "Renesas M16C Stype Converter" "Renesas M16C Linker" 
+"Assembly source file" "Renesas M16C Assembler" "Renesas M16C C Compiler" 
+"Relocatable file" "Renesas M16C Librarian" "Renesas M16C Assembler" 
+"Relocatable file" "Renesas M16C Librarian" "Renesas M16C C Compiler" 
+"Relocatable file" "Renesas M16C Linker" "Renesas M16C Assembler" 
+"Relocatable file" "Renesas M16C Linker" "Renesas M16C C Compiler" 
+[PROJECT_FILES]
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\fvector.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\heap.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\initsct.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\adc.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\board_init.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\interrupts.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" "User" "C source file" 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" "User" "C source file" 2 
+[FOLDER]
+"C source file" "C source file" 
+[GENERAL_DATA_PROJECT]
+"USE_CUSTOM_LINKAGE_ORDER" "0" 
+[ON_DEMAND_COMPONENTS_LOADED]
+[SYNC_SESSION_NAMES]
+[SESSIONS]
+"DefaultSession" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\DefaultSession.hsf" 0 
+"SessionM16C_R8C_Simulator" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\SessionM16C_R8C_Simulator.hsf" 0 
+"SessionR8C_E8_SYSTEM" "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\SessionR8C_E8_SYSTEM.hsf" 0 
+[GENERAL_DATA_SESSION_DefaultSession]
+[GENERAL_DATA_SESSION_SessionM16C_R8C_Simulator]
+[GENERAL_DATA_SESSION_SessionR8C_E8_SYSTEM]
+[OPTIONS_Debug_Renesas M16C Assembler]
+"Assembly source file" "0c0d962519aafc10" 2 
+[OPTIONS_Debug_Renesas M16C C Compiler]
+"C source file" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\fvector.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\heap.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\initsct.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\adc.c" "0684f29c29aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" "0faf3bb539aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\board_init.c" "0546de7229aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\interrupts.c" "0058a8278dbafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" "040196f129aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" "036f33ae8ebafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" "0f279f9161cafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" "0c0d962519aafc10" 1 
+[OPTIONS_Debug_Renesas M16C Configurator]
+"Single Shot" "0f279f9161cafc10" 6 
+[OPTIONS_Debug_Renesas M16C Librarian]
+"Single Shot" "0f279f9161cafc10" 5 
+[OPTIONS_Debug_Renesas M16C Linker]
+"Single Shot" "0f279f9161cafc10" 3 
+[OPTIONS_Debug_Renesas M16C Stype Converter]
+"Single Shot" "0f279f9161cafc10" 4 
+[OPTIONS_Debug]
+"" 0 
+"[V|VERSION|1] [B|COMMAND|1] [S|SPEC|UITRON3] " 6 
+"[V|VERSION|1] [B|DATALENGTH|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).mot^"] [S|CPU|R8C2X] " 4 
+"[V|VERSION|1] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=nc30lib^"] [S|CPU|R8C2X] [S|SECTION_ORDER|^"data_SE=400,bss_SE,data_SO,bss_SO,data_NE,bss_NE,data_NO,bss_NO,stack,istack,heap_NE,rom_NE=04000,rom_NO,data_SEI,data_SOI,data_NEI,data_NOI,switch_table,program,interrupt,vector=0fedc,rom_FE=010000,rom_FO^"] " 3 
+"[V|VERSION|1] [S|LIST|LM] [B|INSPECTOR|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [S|CPU|R8C2X] " 2 
+"[V|VERSION|1] [S|MODE|CREATE|] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] " 5 
+"[V|VERSION|1] [S|OUTPUT|OBJECTCODE] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [B|INSPECTOR|1] [S|CPU|R8C2X] " 1 
+[EXCLUDED_FILES_Debug]
+[LINKAGE_ORDER_Debug]
+[GENERAL_DATA_CONFIGURATION_Debug]
+[OPTIONS_Debug_M16C_R8C_Simulator_Renesas M16C Assembler]
+"Assembly source file" "0c0d962519aafc10" 2 
+[OPTIONS_Debug_M16C_R8C_Simulator_Renesas M16C C Compiler]
+"C source file" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\fvector.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\heap.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\initsct.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\adc.c" "0684f29c29aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" "0faf3bb539aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\board_init.c" "0546de7229aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\interrupts.c" "0058a8278dbafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" "040196f129aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" "036f33ae8ebafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" "0f279f9161cafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" "0c0d962519aafc10" 1 
+[OPTIONS_Debug_M16C_R8C_Simulator_Renesas M16C Configurator]
+"Single Shot" "0f279f9161cafc10" 6 
+[OPTIONS_Debug_M16C_R8C_Simulator_Renesas M16C Librarian]
+"Single Shot" "0f279f9161cafc10" 5 
+[OPTIONS_Debug_M16C_R8C_Simulator_Renesas M16C Linker]
+"Single Shot" "0f279f9161cafc10" 3 
+[OPTIONS_Debug_M16C_R8C_Simulator_Renesas M16C Stype Converter]
+"Single Shot" "0f279f9161cafc10" 4 
+[OPTIONS_Debug_M16C_R8C_Simulator]
+"" 0 
+"[V|VERSION|1] [B|COMMAND|1] [S|SPEC|UITRON3] " 6 
+"[V|VERSION|1] [B|DATALENGTH|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).mot^"] [S|CPU|R8C2X] " 4 
+"[V|VERSION|1] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=nc30lib^"] [S|CPU|R8C2X] [S|SECTION_ORDER|^"data_SE=400,bss_SE,data_SO,bss_SO,data_NE,bss_NE,data_NO,bss_NO,stack,istack,heap_NE,rom_NE=04000,rom_NO,data_SEI,data_SOI,data_NEI,data_NOI,switch_table,program,interrupt,vector=0fedc,rom_FE=010000,rom_FO^"] " 3 
+"[V|VERSION|1] [S|LIST|L|M] [B|INSPECTOR|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [S|CPU|R8C2X] " 2 
+"[V|VERSION|1] [S|MODE|CREATE|] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] " 5 
+"[V|VERSION|1] [S|OUTPUT|OBJECTCODE] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [B|INSPECTOR|1] [S|CPU|R8C2X] " 1 
+[EXCLUDED_FILES_Debug_M16C_R8C_Simulator]
+[LINKAGE_ORDER_Debug_M16C_R8C_Simulator]
+[GENERAL_DATA_CONFIGURATION_Debug_M16C_R8C_Simulator]
+[OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Assembler]
+"Assembly source file" "0c0d962519aafc10" 2 
+[OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C C Compiler]
+"C source file" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\fvector.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\heap.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\initsct.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\adc.c" "0684f29c29aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" "0faf3bb539aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\board_init.c" "0546de7229aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\interrupts.c" "0058a8278dbafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" "040196f129aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" "036f33ae8ebafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" "0f279f9161cafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" "0c0d962519aafc10" 1 
+[OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Configurator]
+"Single Shot" "0f279f9161cafc10" 6 
+[OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Librarian]
+"Single Shot" "0f279f9161cafc10" 5 
+[OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Linker]
+"Single Shot" "0f279f9161cafc10" 3 
+[OPTIONS_Debug_R8C_E8_SYSTEM_Renesas M16C Stype Converter]
+"Single Shot" "0f279f9161cafc10" 4 
+[OPTIONS_Debug_R8C_E8_SYSTEM]
+"" 0 
+"[V|VERSION|1] [B|COMMAND|1] [S|SPEC|UITRON3] " 6 
+"[V|VERSION|1] [B|DATALENGTH|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).mot^"] [S|CPU|R8C2X] " 4 
+"[V|VERSION|1] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=nc30lib^"] [S|CPU|R8C2X] [S|SECTION_ORDER|^"data_SE=400,bss_SE,data_SO,bss_SO,data_NE,bss_NE,data_NO,bss_NO,stack,istack,heap_NE,rom_NE=04000,rom_NO,data_SEI,data_SOI,data_NEI,data_NOI,switch_table,program,interrupt,vector=0fedc,rom_FE=010000,rom_FO^"] " 3 
+"[V|VERSION|1] [S|LIST|L|M] [B|INSPECTOR|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [S|CPU|R8C2X] " 2 
+"[V|VERSION|1] [S|MODE|CREATE|] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] " 5 
+"[V|VERSION|1] [S|OUTPUT|OBJECTCODE] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [B|INSPECTOR|1] [S|CPU|R8C2X] " 1 
+[EXCLUDED_FILES_Debug_R8C_E8_SYSTEM]
+[LINKAGE_ORDER_Debug_R8C_E8_SYSTEM]
+[GENERAL_DATA_CONFIGURATION_Debug_R8C_E8_SYSTEM]
+[OPTIONS_Release_Renesas M16C Assembler]
+"Assembly source file" "0c0d962519aafc10" 2 
+[OPTIONS_Release_Renesas M16C C Compiler]
+"C source file" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\fvector.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\heap.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\initsct.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" "0c0d962519aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\adc.c" "0684f29c29aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" "0faf3bb539aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\board_init.c" "0546de7229aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\interrupts.c" "0058a8278dbafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" "040196f129aafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" "036f33ae8ebafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" "0f279f9161cafc10" 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" "0c0d962519aafc10" 1 
+[OPTIONS_Release_Renesas M16C Configurator]
+"Single Shot" "0f279f9161cafc10" 6 
+[OPTIONS_Release_Renesas M16C Librarian]
+"Single Shot" "0f279f9161cafc10" 5 
+[OPTIONS_Release_Renesas M16C Linker]
+"Single Shot" "0f279f9161cafc10" 3 
+[OPTIONS_Release_Renesas M16C Stype Converter]
+"Single Shot" "0f279f9161cafc10" 4 
+[OPTIONS_Release]
+"" 0 
+"[V|VERSION|1] [B|COMMAND|1] [S|SPEC|UITRON3] " 6 
+"[V|VERSION|1] [B|DATALENGTH|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).mot^"] [S|CPU|R8C2X] " 4 
+"[V|VERSION|1] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=nc30lib^"] [S|CPU|R8C2X] [S|SECTION_ORDER|^"data_SE=400,bss_SE,data_SO,bss_SO,data_NE,bss_NE,data_NO,bss_NO,stack,istack,heap_NE,rom_NE=04000,rom_NO,data_SEI,data_SOI,data_NEI,data_NOI,switch_table,program,interrupt,vector=0fedc,rom_FE=010000,rom_FO^"] " 3 
+"[V|VERSION|1] [S|LIST|L|M] [B|INSPECTOR|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [S|CPU|R8C2X] " 2 
+"[V|VERSION|1] [S|MODE|CREATE|] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] " 5 
+"[V|VERSION|1] [S|OUTPUT|OBJECTCODE] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [B|INSPECTOR|1] [S|CPU|R8C2X] " 1 
+[EXCLUDED_FILES_Release]
+[LINKAGE_ORDER_Release]
+[GENERAL_DATA_CONFIGURATION_Release]
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
+"MEMORY_MAPPING_OPTIONS" "" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_SessionM16C_R8C_Simulator]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_SessionM16C_R8C_Simulator]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_SessionR8C_E8_SYSTEM]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_SessionR8C_E8_SYSTEM]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_M16C_R8C_Simulator_DefaultSession]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_M16C_R8C_Simulator_DefaultSession]
+"MEMORY_MAPPING_OPTIONS" "" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_M16C_R8C_Simulator_SessionM16C_R8C_Simulator]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_M16C_R8C_Simulator_SessionM16C_R8C_Simulator]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_M16C_R8C_Simulator_SessionR8C_E8_SYSTEM]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_M16C_R8C_Simulator_SessionR8C_E8_SYSTEM]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_R8C_E8_SYSTEM_DefaultSession]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_R8C_E8_SYSTEM_DefaultSession]
+"MEMORY_MAPPING_OPTIONS" "" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_R8C_E8_SYSTEM_SessionM16C_R8C_Simulator]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_R8C_E8_SYSTEM_SessionM16C_R8C_Simulator]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_R8C_E8_SYSTEM_SessionR8C_E8_SYSTEM]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_R8C_E8_SYSTEM_SessionR8C_E8_SYSTEM]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Release_DefaultSession]
+[SESSION_DATA_CONFIGURATION_SESSION_Release_DefaultSession]
+"MEMORY_MAPPING_OPTIONS" "" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Release_SessionM16C_R8C_Simulator]
+[SESSION_DATA_CONFIGURATION_SESSION_Release_SessionM16C_R8C_Simulator]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Release_SessionR8C_E8_SYSTEM]
+[SESSION_DATA_CONFIGURATION_SESSION_Release_SessionR8C_E8_SYSTEM]
+"MEMORY_MAPPING_OPTIONS" "Unknown Options" 
+[EXT_DEBUGGER_INFO]
+0 "" "" "" "" 
+[END]

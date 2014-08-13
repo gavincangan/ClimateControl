@@ -1,0 +1,25 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.1" 
+[CURRENT_PROJECT]
+"Climate_Control" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" 
+[WORKSPACE_FILE_STATES]
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Climate_Control.c" 0 0 1292 457 0 0 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\intprg.c" 25 25 1296 461 0 1 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\blink.c" -8 -30 1537 724 1 6 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\lcd.c" 100 100 1296 461 0 4 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\menu.c" 0 0 1537 724 0 3 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\ref\utilities.c" 50 50 1296 461 0 2 
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\resetprg.c" 125 125 1296 461 0 5 
+[END]

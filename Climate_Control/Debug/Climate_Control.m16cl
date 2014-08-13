@@ -1,0 +1,19 @@
+-L "nc30lib"
+-G
+-MS
+-O "U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\Climate_Control.x30"
+-ORDER data_SE=0400,bss_SE,data_SO,bss_SO,data_NE,bss_NE,data_NO,bss_NO,stack,istack,heap_NE,rom_NE=04000,rom_NO,data_SEI,data_SOI,data_NEI,data_NOI,switch_table,program,interrupt,vector=0FEDC,rom_FE=010000,rom_FO
+-R8CE
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\adc.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\blink.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\board_init.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\Climate_Control.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\fvector.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\heap.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\initsct.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\interrupts.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\intprg.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\lcd.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\menu.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\resetprg.r30"
+"U:\BarnabasGavinCangan\Climate_Control\Climate_Control\Debug\utilities.r30"
